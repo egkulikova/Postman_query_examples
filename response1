@@ -1,1 +1,19 @@
-{"id":548,"due_date":"2022-07-03","assigned_to":"admin","title":"Измененный заголовок","created":"2022-06-06T12:22:22.222000","modified":"2022-07-15T20:25:26.582994","submitter_email":"test@mail.ru","status":1,"on_hold":false,"description":"измененное описание","resolution":"измененная резолюция","priority":5,"last_escalation":null,"secret_key":"ключ","queue":1,"kbitem":1,"merged_to":null}
+{
+"id":548,
+"due_date":"2022-07-03",
+"assigned_to":"admin",
+"title":"Измененный заголовок",
+"created":"2022-06-06T12:22:22.222000",
+"modified":"2022-07-15T20:25:26.582994",
+"submitter_email":"test@mail.ru",
+"status":1,
+"on_hold":false,
+"description":"измененное описание",
+"resolution":"измененная резолюция",
+"priority":5,
+"last_escalation":null,
+"secret_key":"ключ",
+"queue":1,
+"kbitem":1,
+"merged_to":null
+}
